@@ -1,0 +1,15 @@
+from quay.io/calico/node
+from quay.io/calico/cni
+from quay.io/calico/kube-controllers
+from quay.io/calico/kube-policy-controller
+from k8s.gcr.io/kube-proxy-amd64
+from k8s.gcr.io/kube-scheduler-amd64
+from k8s.gcr.io/kube-controller-manager-amd64
+from k8s.gcr.io/kube-apiserver-amd64
+from k8s.gcr.io/etcd-amd64
+from k8s.gcr.io/k8s-dns-dnsmasq-nanny-amd64
+from k8s.gcr.io/k8s-dns-sidecar-amd64
+from k8s.gcr.io/k8s-dns-kube-dns-amd64
+from k8s.gcr.io/pause-amd64
+from quay.io/coreos/etcd
+from gcr.io/google_containers/etcd
