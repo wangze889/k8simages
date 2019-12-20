@@ -11,4 +11,3 @@ from mirrorgooglecontainers/pause:3.1
 from mirrorgooglecontainers/etcd-amd64:3.2.18
 from coredns/coredns:1.1.3
 from quay.io/coreos/etcd
-from gcr.io/google_containers/etcd
